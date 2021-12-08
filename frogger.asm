@@ -1,7 +1,7 @@
 
 # =============================== Project Information  ===============================
 
- # ---------------------- CSC258H5S Fall 2021 Assembly Final Project ----------------------
+ # ---------------------- CSC258H1S Fall 2021 Assembly Final Project ----------------------
  
  # University of Toronto, St. George
 
